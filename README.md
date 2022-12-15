@@ -5,7 +5,7 @@ A simple tool that allows people to inject/copy any given file into the Startup 
 > This tool is only aimed for lazy people, to quickly add files to the startup menu ! 
 
 > **Note**
-> To remove files, follow this path : 
+> To remove files, follow this path : <br />
 >    C:\Users\%UserName%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
  
